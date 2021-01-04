@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REWDraw", "REWDraw.csproj", "{2E0B006D-7FFA-4135-B1DE-BE7C4F58AE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REWDrawTests", "..\REWDrawTests\REWDrawTests.csproj", "{98FA6442-A377-495E-85B5-F3E83DBF638C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E0B006D-7FFA-4135-B1DE-BE7C4F58AE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0B006D-7FFA-4135-B1DE-BE7C4F58AE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0B006D-7FFA-4135-B1DE-BE7C4F58AE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0B006D-7FFA-4135-B1DE-BE7C4F58AE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98FA6442-A377-495E-85B5-F3E83DBF638C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FA6442-A377-495E-85B5-F3E83DBF638C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FA6442-A377-495E-85B5-F3E83DBF638C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FA6442-A377-495E-85B5-F3E83DBF638C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46507FE1-3BCB-4850-B6E5-4C7E5ECFB8C5}
+	EndGlobalSection
+EndGlobal
